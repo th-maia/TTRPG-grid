@@ -1,0 +1,15 @@
+.menu {
+  z-index: 2;
+}
+
+.background {
+  background-color: tomato;
+  z-index: 0;
+  position: absolute;
+  width: auto;
+  height: auto;
+}
+
+.inputNum {
+  width: 60px;
+}
